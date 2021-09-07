@@ -11,5 +11,6 @@ Var
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
      escreva(" teste 1 ")
+     escreva(" teste 2 ")
 
 Fimalgoritmo
